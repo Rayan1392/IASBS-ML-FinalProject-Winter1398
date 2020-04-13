@@ -1,0 +1,13 @@
+=== VOC: Bayesian Logistic Regression ===
+              precision    recall  f1-score   support
+
+           1       0.73      0.62      0.67       233
+           2       0.72      0.45      0.56       194
+           3       0.62      0.67      0.64       318
+           4       0.61      0.89      0.72       558
+           5       0.77      0.22      0.35       134
+           6       0.75      0.13      0.22        93
+
+    accuracy                           0.64      1530
+   macro avg       0.70      0.50      0.53      1530
+weighted avg       0.67      0.64      0.61      1530

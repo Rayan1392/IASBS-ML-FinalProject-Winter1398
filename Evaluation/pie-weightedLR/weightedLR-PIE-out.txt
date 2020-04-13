@@ -1,0 +1,13 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========== RESTART: F:\982\ml\FinalProject\PIE\weightedLR-PIE.py ===========
+Traceback (most recent call last):
+  File "F:\982\ml\FinalProject\PIE\weightedLR-PIE.py", line 196, in <module>
+    params_optimal = gradient_descent(X_cross, Y_cross, params, learning_rate, iterations, w)
+  File "F:\982\ml\FinalProject\PIE\weightedLR-PIE.py", line 44, in gradient_descent
+    params = params - (learning_rate/m) *(w * (X.T @ (sigmoid(X @ params) - y)))
+  File "F:\982\ml\FinalProject\PIE\weightedLR-PIE.py", line 37, in sigmoid
+    return 1 / (1 + np.exp(-x))
+MemoryError: Unable to allocate array with shape (8222, 3332) and data type float64
+>>> 

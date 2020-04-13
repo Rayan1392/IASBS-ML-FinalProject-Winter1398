@@ -1,0 +1,130 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: E:\New folder (5)\MSRC\weighted-msrc.py ==============
+
+Warning (from warnings module):
+  File "C:\Users\mardani\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.05      1.00      0.09        12
+           2       0.00      0.00      0.00        55
+           3       0.00      0.00      0.00        15
+           4       0.00      0.00      0.00        99
+           5       0.00      0.00      0.00        37
+           6       0.00      0.00      0.00        38
+
+    accuracy                           0.05       256
+   macro avg       0.01      0.17      0.01       256
+weighted avg       0.00      0.05      0.00       256
+
+(256, 6)
+
+Warning (from warnings module):
+  File "E:\New folder (5)\MSRC\weighted-msrc.py", line 97
+    mean_tpr += interp(all_fpr, fpr[i], tpr[i])
+DeprecationWarning: scipy.interp is deprecated and will be removed in SciPy 2.0.0, use numpy.interp instead
+finish
+
+Warning (from warnings module):
+  File "C:\Users\mardani\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.05      1.00      0.09        12
+           2       0.00      0.00      0.00        55
+           3       0.00      0.00      0.00        15
+           4       0.00      0.00      0.00        99
+           5       0.00      0.00      0.00        37
+           6       0.00      0.00      0.00        38
+
+    accuracy                           0.05       256
+   macro avg       0.01      0.17      0.01       256
+weighted avg       0.00      0.05      0.00       256
+
+(256, 6)
+
+Warning (from warnings module):
+  File "E:\New folder (5)\MSRC\weighted-msrc.py", line 97
+    mean_tpr += interp(all_fpr, fpr[i], tpr[i])
+DeprecationWarning: scipy.interp is deprecated and will be removed in SciPy 2.0.0, use numpy.interp instead
+finish
+
+Warning (from warnings module):
+  File "C:\Users\mardani\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.05      1.00      0.09        12
+           2       0.00      0.00      0.00        54
+           3       0.00      0.00      0.00        14
+           4       0.00      0.00      0.00        99
+           5       0.00      0.00      0.00        36
+           6       0.00      0.00      0.00        38
+
+    accuracy                           0.05       253
+   macro avg       0.01      0.17      0.02       253
+weighted avg       0.00      0.05      0.00       253
+
+(253, 6)
+
+Warning (from warnings module):
+  File "E:\New folder (5)\MSRC\weighted-msrc.py", line 97
+    mean_tpr += interp(all_fpr, fpr[i], tpr[i])
+DeprecationWarning: scipy.interp is deprecated and will be removed in SciPy 2.0.0, use numpy.interp instead
+finish
+
+Warning (from warnings module):
+  File "C:\Users\mardani\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.04      1.00      0.08        11
+           2       0.00      0.00      0.00        54
+           3       0.00      0.00      0.00        14
+           4       0.00      0.00      0.00        99
+           5       0.00      0.00      0.00        36
+           6       0.00      0.00      0.00        38
+
+    accuracy                           0.04       252
+   macro avg       0.01      0.17      0.01       252
+weighted avg       0.00      0.04      0.00       252
+
+(252, 6)
+
+Warning (from warnings module):
+  File "E:\New folder (5)\MSRC\weighted-msrc.py", line 97
+    mean_tpr += interp(all_fpr, fpr[i], tpr[i])
+DeprecationWarning: scipy.interp is deprecated and will be removed in SciPy 2.0.0, use numpy.interp instead
+finish
+
+Warning (from warnings module):
+  File "C:\Users\mardani\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.04      1.00      0.08        11
+           2       0.00      0.00      0.00        54
+           3       0.00      0.00      0.00        14
+           4       0.00      0.00      0.00        99
+           5       0.00      0.00      0.00        36
+           6       0.00      0.00      0.00        38
+
+    accuracy                           0.04       252
+   macro avg       0.01      0.17      0.01       252
+weighted avg       0.00      0.04      0.00       252
+
+(252, 6)
+
+Warning (from warnings module):
+  File "E:\New folder (5)\MSRC\weighted-msrc.py", line 97
+    mean_tpr += interp(all_fpr, fpr[i], tpr[i])
+DeprecationWarning: scipy.interp is deprecated and will be removed in SciPy 2.0.0, use numpy.interp instead
+finish
+>>> 

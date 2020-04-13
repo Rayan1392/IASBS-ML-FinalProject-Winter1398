@@ -1,0 +1,95 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: F:\982\ml\FinalProject\VOC\svm-voc.py ===============
+
+Warning (from warnings module):
+  File "C:\Users\behnia-pc\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        47
+           2       1.00      0.03      0.05        39
+           3       0.00      0.00      0.00        64
+           4       0.36      1.00      0.53       112
+           5       0.00      0.00      0.00        27
+           6       0.00      0.00      0.00        19
+
+    accuracy                           0.37       308
+   macro avg       0.23      0.17      0.10       308
+weighted avg       0.26      0.37      0.20       308
+
+
+Warning (from warnings module):
+  File "C:\Users\behnia-pc\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        47
+           2       0.00      0.00      0.00        39
+           3       0.00      0.00      0.00        64
+           4       0.36      1.00      0.53       112
+           5       0.00      0.00      0.00        27
+           6       0.00      0.00      0.00        19
+
+    accuracy                           0.36       308
+   macro avg       0.06      0.17      0.09       308
+weighted avg       0.13      0.36      0.19       308
+
+
+Warning (from warnings module):
+  File "C:\Users\behnia-pc\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        47
+           2       1.00      0.03      0.05        39
+           3       0.00      0.00      0.00        64
+           4       0.36      1.00      0.53       112
+           5       0.00      0.00      0.00        27
+           6       0.00      0.00      0.00        19
+
+    accuracy                           0.37       308
+   macro avg       0.23      0.17      0.10       308
+weighted avg       0.26      0.37      0.20       308
+
+
+Warning (from warnings module):
+  File "C:\Users\behnia-pc\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        46
+           2       0.00      0.00      0.00        39
+           3       0.00      0.00      0.00        63
+           4       0.37      1.00      0.53       111
+           5       0.00      0.00      0.00        27
+           6       0.00      0.00      0.00        18
+
+    accuracy                           0.37       304
+   macro avg       0.06      0.17      0.09       304
+weighted avg       0.13      0.37      0.20       304
+
+
+Warning (from warnings module):
+  File "C:\Users\behnia-pc\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\metrics\classification.py", line 1437
+    'precision', 'predicted', average, warn_for)
+UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        46
+           2       0.00      0.00      0.00        38
+           3       0.00      0.00      0.00        63
+           4       0.37      1.00      0.54       111
+           5       0.00      0.00      0.00        26
+           6       0.00      0.00      0.00        18
+
+    accuracy                           0.37       302
+   macro avg       0.06      0.17      0.09       302
+weighted avg       0.14      0.37      0.20       302
+
+>>> 

@@ -1,0 +1,13 @@
+=== MSRC: Bayesian Logistic Regression ===
+              precision    recall  f1-score   support
+
+           1       0.98      0.97      0.97        58
+           2       0.98      1.00      0.99       272
+           3       0.98      0.75      0.85        72
+           4       0.98      1.00      0.99       495
+           5       0.92      0.87      0.90       182
+           6       0.86      0.94      0.90       190
+
+    accuracy                           0.95      1269
+   macro avg       0.95      0.92      0.93      1269
+weighted avg       0.96      0.95      0.95      1269
